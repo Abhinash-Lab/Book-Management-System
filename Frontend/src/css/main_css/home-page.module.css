@@ -1,0 +1,39 @@
+.nav{
+  width: 60vw;
+  margin: 40px auto;
+}
+.bookListSection{
+  width: 60vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bookList{
+  width: 57vw;
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav ul{
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+.nav ul li a{
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.bookLists{
+ width: 90%;
+ display: flex;
+ flex-wrap: wrap;
+ gap: 3px;
+}
+
+
+
